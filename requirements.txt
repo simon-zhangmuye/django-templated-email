@@ -1,2 +1,2 @@
 -r tox-requirements.txt
-Django==1.11
+Django==2.2.24
